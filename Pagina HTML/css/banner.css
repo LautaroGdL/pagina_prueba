@@ -86,6 +86,12 @@
     animation-delay: 1;
 }
 
+.bk_serv a{
+color: #111;
+text-decoration: none;
+background-color: #fff;
+}
+
 .bk_cont_img{
     padding: 5%;
 }
