@@ -7,3 +7,19 @@
 body{
     font-family: 'Cormorant Garamond', serif;
 }
+
+.bk_cont_sec_1{
+    padding: 10%;
+}
+
+.bk_cont_sec_1_link{
+    padding: 5%;
+}
+
+.bk_cont_sec_1_link a{
+    width: 200px;
+}
+
+.bk_cont_sec_1_link hr{
+    border-top: 1px solid rgba(1, 1, 1, 0.7);
+}
