@@ -23,3 +23,21 @@ body{
 .bk_cont_sec_1_link hr{
     border-top: 1px solid rgba(1, 1, 1, 0.7);
 }
+
+.bk_cont_banner_sec_3{
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../img/im2.jpg");
+    position: relative;
+    padding: 10%;
+    margin-top: 50%;
+    margin-bottom: 50%;
+}
+
+.bk_cont_banner_sec_3 .row{
+    background-color: rgba(1, 1, 1, 0.7);
+    color: #fff;
+    padding: 2%;
+}
